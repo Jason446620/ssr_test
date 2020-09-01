@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e5b0fcfa-e859-43f3-8d84-5e5fe29f4c68/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/panshubeissrdelpoytest",
+    "appService.deploySubpath": "."
+}
